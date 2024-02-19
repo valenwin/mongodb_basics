@@ -1,0 +1,86 @@
+[
+  {
+    "category": "Smartphone",
+    "model": "Galaxy S21",
+    "producer": "Samsung",
+    "price": 799
+  },
+  {
+    "category": "Television",
+    "model": "4K OLED TV",
+    "producer": "LG",
+    "price": 1200
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Series 6",
+    "producer": "Apple",
+    "price": 399
+  },
+  {
+    "category": "Laptop",
+    "model": "MacBook Pro",
+    "producer": "Apple",
+    "price": 1299
+  },
+  {
+    "category": "Smartphone",
+    "model": "iPhone 14 Pro",
+    "producer": "Apple",
+    "price": 899
+  },
+  {
+    "category": "Smartphone",
+    "model": "iPhone 14 Pro Max",
+    "producer": "Apple",
+    "price": 1199
+  },
+  {
+    "category": "Smartphone",
+    "model": "iPhone 15 Pro",
+    "producer": "Apple",
+    "price": 999
+  },
+  {
+    "category": "Smartphone",
+    "model": "iPhone 15 Pro Max",
+    "producer": "Apple",
+    "price": 1299
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Series 5",
+    "producer": "Apple",
+    "price": 299
+  },
+  {
+    "category": "Laptop",
+    "model": "MacBook Pro Max M1",
+    "producer": "Apple",
+    "price": 1799
+  },
+  {
+    "category": "Laptop",
+    "model": "MacBook Pro Max M2",
+    "producer": "Apple",
+    "price": 1999
+  },
+  {
+    "category": "Laptop",
+    "model": "Vivobook 15X",
+    "producer": "Asus",
+    "price": 899
+  },
+  {
+    "category": "Laptop",
+    "model": "Vivobook 15S",
+    "producer": "Asus",
+    "price": 999
+  },
+  {
+    "category": "Laptop",
+    "model": "Expertbook B2 Black",
+    "producer": "Asus",
+    "price": 999
+  }
+]
