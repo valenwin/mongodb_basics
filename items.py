@@ -2,8 +2,7 @@ import json
 import certifi
 from pymongo import MongoClient
 
-# Replace with your actual MongoDB Atlas connection string
-connection_string = "mongodb+srv://tina:WestCoast0608@cluster0.5okimuc.mongodb.net/"
+from main import connection_string
 
 json_file_path = "items.json"
 

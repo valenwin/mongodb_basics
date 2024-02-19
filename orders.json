@@ -1,0 +1,85 @@
+[
+  {
+    "order_number": 1001,
+    "date": "2024-02-20T00:00:00Z",
+    "total_sum": 1548.00,
+    "customer": {
+      "name": "John",
+      "surname": "Doe",
+      "phones": [
+        123456789
+      ],
+      "address": "123 Main St, Anytown, USA"
+    },
+    "payment": {
+      "card_owner": "John Doe",
+      "cardId": 1111222233334444
+    },
+    "items_id": [
+      "65d37a70eef8738e96f6c300",
+      "65d37a70eef8738e96f6c2fe"
+    ]
+  },
+  {
+    "order_number": 1002,
+    "date": "2024-02-21T00:00:00Z",
+    "total_sum": 2848.00,
+    "customer": {
+      "name": "Alice",
+      "surname": "Smith",
+      "phones": [
+        987654321
+      ],
+      "address": "456 Elm St, Springfield, USA"
+    },
+    "payment": {
+      "card_owner": "Alice Smith",
+      "cardId": 4444333322221111
+    },
+    "items_id": [
+      "65d37a70eef8738e96f6c2ff",
+      "65d37a70eef8738e96f6c303"
+    ]
+  },
+  {
+    "order_number": 1003,
+    "date": "2024-02-22T00:00:00Z",
+    "total_sum": 899.00,
+    "customer": {
+      "name": "Bob",
+      "surname": "Johnson",
+      "phones": [
+        567890123
+      ],
+      "address": "789 Pine St, Metropolis, USA"
+    },
+    "payment": {
+      "card_owner": "Bob Johnson",
+      "cardId": 5555666677778888
+    },
+    "items_id": [
+      "65d37a70eef8738e96f6c2ff"
+    ]
+  },
+  {
+    "order_number": 1004,
+    "date": "2024-02-23T00:00:00Z",
+    "total_sum": 2198.00,
+    "customer": {
+      "name": "Charlie",
+      "surname": "Brown",
+      "phones": [
+        246810121
+      ],
+      "address": "321 Oak St, Gotham, USA"
+    },
+    "payment": {
+      "card_owner": "Charlie Brown",
+      "cardId": 9999888877776666
+    },
+    "items_id": [
+      "65d37a70eef8738e96f6c307",
+      "65d37a70eef8738e96f6c2ff"
+    ]
+  }
+]
