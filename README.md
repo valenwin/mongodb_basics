@@ -7,7 +7,7 @@
 
 ## Authors
 
-* **Valentyna Lysenok** - *Initial work* - [YourGitHubProfile](https://github.com/velenwin)
+* **Valentyna Lysenok** - *Initial work* - [GitHubProfile](https://github.com/valenwin)
 
 ## License
 
